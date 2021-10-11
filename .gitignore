@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# i/o for cp
+/DIV2A/*.txt
+
+# local config files
+/.vscode/
