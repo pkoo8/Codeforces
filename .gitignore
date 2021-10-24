@@ -36,5 +36,9 @@
 !/DIV2A/*.*
 /DIV2A/*.txt
 
+/Contests/*
+!/Contests/*.*
+/Contests/*.txt
+
 # local config files
 /.vscode/
